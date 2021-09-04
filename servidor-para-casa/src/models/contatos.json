@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "nome": "Bey",
+    "celular": "(11)99178630",
+    "redesSociais": "@beyonce"
+  },
+  {
+    "id": "2",
+    "nome": "Riri",
+    "celular": "(21)983729320",
+    "redesSociais": "@riri10_10"
+  },
+  {
+    "id": "3",
+    "nome": "Aline",
+    "celular": "(82)984722931",
+    "redesSociais": "@alinery"
+  },
+  {
+    "id": "4",
+    "nome": "Oliveira",
+    "celular": "(11)984721990",
+    "redesSociais": "@oliveira11"
+  }
+]
